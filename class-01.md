@@ -9,23 +9,23 @@ something about the information that lies
 between their opening and closing tags
 
 
-<html> >>> opening tag
-</html> >>> closing tag 
+`<html>` >>> opening tag
+`</html>` >>> closing tag 
 
-The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code. 
+The opening `<html>` tag indicates that anything between it and a closing `</html>` tag is HTML code. 
 **this is how we start our html page** 
 then we have the body tag 
 
-<body> </body>
+`<body> </body>`
 
-The <body> tag indicates that anything between it and the closing 
-</body> tag should be shown inside the main browser window.
+The `<body>` tag indicates that anything between it and the closing 
+`</body>` tag should be shown inside the main browser window.
 
 in the body we can use too many tags like 
 
-1. <h1> and </h1>  Words between those tags are a main heading.
-2.  <h2> and </h2> Words between form a sub-heading.
-3. <p> and </p> A paragraph of text appears between these
+1. `<h1>` and `</h1>`  Words between those tags are a main heading.
+2.  `<h2>` and  `</h2>`  Words between form a sub-heading.
+3. `<p>` and `</p>` A paragraph of text appears between these
 
 notes : 1. to open the tag we use these signs < >
         2. to close the tag we put / after the less-than sign </>
@@ -39,7 +39,7 @@ on the opening tag of the element and are
 made up of two parts: a name and a value, 
 separated by an equals sign.
 
-<p lang="en-us">Paragraph in English</p>
+`<p lang="en-us"> `Paragraph in English `</p>`
 p : is element 
 lang : is attribute name 
 en-us : attribute value 
@@ -48,7 +48,7 @@ en-us : attribute value
 
 now your turn ,  Try to separate out this example 
 
-<h1 "color = blue" > hello people </h1>
+`<h1 "color = blue" > hello people </h1>`
 
 
 
@@ -72,7 +72,7 @@ adding comment to your code  will not be
 visible in the user's browser, you 
 can add the text between these 
 characters:
-<!-- comment goes here -->
+`<!-- comment goes here -->`
 
 
 3. ID Attribute : 
@@ -93,7 +93,7 @@ no longer unique).
 4. Class Attribute : 
 
 we use this attributes if we want to style multiple elemnts at the same time just we put the name of class in the opening tag 
-example : <p class="answer">
+example : `<p class="answer">`
 
 5. Inline Elements 
 
@@ -102,37 +102,37 @@ appear to continue on the
 same line as their neighbouring 
 elements. These are known as 
 inline elements.
-example : <a>, <b>, <em>, and <img>.
+example : `<a>, <b>, <em>, and <img>`.
 
 
 6. Grouping Text & 
 Elements In a Block
 
 
-* <div> : 
+* `<div>` : 
 
-The <div> element allows you to 
+The `<div>` element allows you to 
 group a set of elements together 
 in one block-level box
 
 For example, you might create 
-a <div> element to contain all 
+a `<div>` element to contain all 
 of the elements for the header 
 of your site (the logo and the 
 navigation), or you might create 
-a <div> element to contain 
+a `<div>` element to contain 
 comments from visitors.
 
-* <span> 
+* `<span>` 
 
 The most common reason why 
-people use <span> elements 
+people use `<span>` elements 
 is so that they can control the 
 appearance of the content of 
 these elements using CSS 
 
 
-**the <span>**
+**the `<span>`**
 1. Contain a section of text 
 where there is no other suitable 
 element to differentiate it from 
@@ -140,7 +140,7 @@ its surrounding text
 2. Contain a number of inline 
 elements
 
-* <iframe> 
+* `<iframe>` 
 
 An iframe is like a little window 
 that has been cut into your 
@@ -150,7 +150,7 @@ iframe is an abbreviation of inline
 frame.
 
 An iframe is created using the  
-<iframe> element. There are a 
+`<iframe>` element. There are a 
 few attributes that you will need 
 to know to use it:
 
@@ -168,9 +168,9 @@ the width of the iframe in pixels.
 
 **extra Information About Your Pages**
 
-<meta>
-The <meta> element lives 
-inside the <head> element and 
+`<meta>`
+The `<meta>` element lives 
+inside the `<head>` element and 
 contains information about that 
 web page.
 It is not visible to users but 
@@ -180,7 +180,7 @@ about your page, who created
 it, and whether or not it is time 
 sensitive. (If the page is time 
 sensitive, it can be set to expire.)
-The <meta> element is an empty 
+The `<meta>` element is an empty 
 element so it does not have a 
 closing tag. It uses attributes to 
 carry the information.
@@ -204,16 +204,16 @@ site.
 
 **i can help and tell that you can put copy write sign in footer**
 
-2. Navigation <nav>
+2. Navigation `<nav>`
 
-The <nav> element is used to 
+The `<nav>` element is used to 
 contain the major navigational 
 blocks on the site such as the 
 primary site navigation.
 
-3. Articles <article> 
+3. Articles `<article>` 
 
-The <article> element acts as 
+The `<article>` element acts as 
 a container for any section of a 
 page that could stand alone and 
 potentially be syndicated.
@@ -225,69 +225,69 @@ If a page contains several articles
 (or even summaries of several 
 articles), then each individual 
 article would live inside its own 
-<article> element.
-The <article> elements can 
+`<article>` element.
+The `<article>` elements can 
 even be nested inside each 
 other
 
-4. Asides <aside>
+4. Asides `<aside>`
 
-The <aside> element has two 
+The `<aside>` element has two 
 purposes, depending on whether 
-it is inside an <article>
+it is inside an `<article>`
 element or not.
 
-1. When the <aside> element 
-is used inside an <article>
+1. When the `<aside>` element 
+is used inside an `<article>`
 element, it should contain 
 information that is related to the 
 article but not essential to its 
 overall meaning.
 
-2. When the <aside> element is 
-used outside of an <article>
+2. When the `<aside>` element is 
+used outside of an `<article>`
 element, it acts as a container 
 for content that is related to 
 the entire page
 
 5. Sections
-<section>
+`<section>`
 
-The <section> element groups 
+The `<section>` element groups 
 related content together, and 
 typically each section would 
 have its own heading.
 
-because the <section> element 
+because the `<section>` element 
 groups related items together, 
 it may contain several distinct 
-<article> elements that have a 
+`<article>` elements that have a 
 common theme or purpose. 
 Alternatively, if you have a 
 page with a long article, the 
-<section> element can be 
+`<section>` element can be 
 used to split the article up into 
 separate sections.
-The <section> element should 
+The `<section>` element should 
 not be used as a wrapper for 
 the entire page (unless the 
 page only contains one distinct 
 piece of content). If you want a 
 containing element for the entire 
 page, that job is still best left to 
-the <div> element.
+the `<div>` element.
 
 6. Heading Groups
-<hgroup>
+`<hgroup>`
 
-The purpose of the <hgroup>
+The purpose of the `<hgroup>`
 element is to group together a 
-set of one or more <h1> through 
-<h6> elements so that they are 
+set of one or more `<h1>` through 
+`<h6>` elements so that they are 
 treated as one single heading. 
 
 7. Figures
-<figure> <figcaption>
+`<figure> <figcaption>`
 
 Examples of usage of figures include:
 ● Images
@@ -297,14 +297,14 @@ Examples of usage of figures include:
 ● Code samples
 ● Text that supports the main 
 body of an article
-The <figure> element should 
-also contain a <figcaption>
+The `<figure>` element should 
+also contain a `<figcaption>`
 element which provides a text 
 decription for the content of 
-the <figure> element. In 
+the `<figure>` element. In 
 this example, you can see a 
-<figure> has been added inside 
-the <article> element.
+`<figure>` has been added inside 
+the `<article>` element.
 
 
 **#Process & Design**
@@ -498,7 +498,7 @@ ask people who are the target
 audience to help you group 
 related information together.
 
-!(card sorting example)[https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0108-04_open_card_sorting2.png]
+![card sorting example] ("https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0108-04_open_card_sorting2.png")
 
 
 **WireFrames**

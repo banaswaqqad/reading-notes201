@@ -22,6 +22,7 @@ programming to advanced development.
 | Title | git webpage |
 | ----- | ------------|
 |  IntroductoryHTMLandJavaScript  |[IntroductoryHTMLandJavaScript](https://banaswaqqad.github.io/reading-notes201/class-01) |
+|  Basics of HTML, CSS & JS |    [ Basics of HTML, CSS & JS ]  (https://banaswaqqad.github.io/reading-notes201/class-02)|
 
 
 
