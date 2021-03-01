@@ -242,7 +242,7 @@ example :
 `el . textContent = col ors[O];` 
 
 
-# VALU ES IN ARRAYS 
+# VALUES IN ARRAYS 
 
 
 Values in an array are accessed as if they are in 
@@ -257,4 +257,34 @@ to access specific items in the
 array
 
 
+# OPERATORS 
 
+1. ASSIGNMENT OPERATORS 
+Assign a value to a variable 
+ 
+2. ARITHMETIC OPERATORS 
+Perform basic math 
+
+3. STRING OPERATORS 
+Combine two strings 
+
+4. COMPARISON OPERATORS 
+Compare two values and return true or fa 1 se 
+
+5. LOGICAL OPERATORS 
+Combine expressions and return true or fa 1 se 
+
+
+# USING  COMPARISON OPERATORS
+
+we  starts by setting 
+two variables: 
+1. pass to hold the pass mark 
+2. score to hold the users score 
+
+# COMPARING TWO EXPRESSIONS : 
+ex : The comparison operator checks 
+if the user's total score is greater 
+than the highest score for the 
+test and stores the result in a 
+variable called comparison. 
