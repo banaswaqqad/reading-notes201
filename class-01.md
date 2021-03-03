@@ -507,3 +507,118 @@ information that needs to go on each page of a
 site. It shows the hierarchy of the information 
 and how much space it might require.
 
+
+
+# How People Access the Web
+
+1. Browsers
+People access websites using 
+software called a web browser. 
+Popular examples include 
+Firefox, Internet Explorer, Safari, 
+Chrome, and Opera.
+
+2. Web Servers 
+Web servers are special 
+computers that are constantly 
+connected to the Internet, and 
+are optimized to send web pages 
+out to people who request them
+
+4. Screen readers
+Screen readers are programs 
+that read out the contents of a 
+computer screen to a user. They 
+are commonly used by people 
+with visual impairments
+
+5. Devices
+People are accessing websites 
+on an increasing range of devices 
+including desktop computers, 
+laptops, tablets, and mobile 
+phones. It is important to 
+remember that various devices 
+have different screen sizes and 
+some have faster connections to 
+the web than others.
+
+
+
+## How the Web Works : 
+When you visit a website, the web server 
+hosting that site could be anywhere in the 
+world. In order for you to find the location of 
+the web server, your browser will first connect 
+to a Domain Name System (DNS) server.
+
+### steps :
+
+1. When you connect to the web, 
+you do so via an Internet Service 
+Provider (ISP). You type a 
+domain name or web address 
+into your browser to visit a site; 
+for example: google.com, 
+bbc.co.uk, microsoft.com
+
+2. Your computer contacts a 
+network of servers called 
+Domain Name System (DNS) 
+servers. These act like phone 
+books; they tell your computer 
+the IP address associated with 
+the requested domain name. 
+An IP address is a number 
+of up to 12 digits separated 
+by periods / full stops. Every 
+device connected to the web 
+has a unique IP address; it is 
+like the phone number for that 
+computer.
+
+
+3. The unique number that the 
+DNS server returns to your 
+computer allows your browser 
+to contact the web server 
+that hosts the website you 
+requested. A web server is a 
+computer that is constantly 
+connected to the web, and is set 
+up especially to send web pages 
+to users.
+
+
+4. The web server then sends the 
+page you requested back to your 
+web browser
+
+
+
+
+
+### Structure 
+
+1. HTML pages are text documents.
+2. X HTML uses tags (characters that sit inside angled 
+brackets) to give the information they surround special 
+meaning.
+3. X Tags are often referred to as elements.
+4. X Tags usually come in pairs. The opening tag denotes 
+the start of a piece of content; the closing tag denotes 
+the end.
+5. X Opening tags can carry attributes, which tell us more 
+about the content of that element.
+6. X Attributes require a name and a value.
+7. X To learn HTML you need to know what tags are 
+available for you to use, what they do, and where they 
+can go.
+
+
+### TEXT
+1. X HTML elements are used to describe the structure of 
+the page (e.g. headings, subheadings, paragraphs).
+2. X They also provide semantic information (e.g. where 
+emphasis should be placed, the definition of any 
+acronyms used, when given text is a quotation).
