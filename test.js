@@ -6,6 +6,5 @@
 6: }
 
 
-let x = prompt(dfdfdf)
+let x = prompt('dfdfdf')
 
-if (x != y)

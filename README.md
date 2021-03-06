@@ -24,6 +24,9 @@ programming to advanced development.
 |  IntroductoryHTMLandJavaScript  |[IntroductoryHTMLandJavaScript](https://banaswaqqad.github.io/reading-notes201/class-01) |
 |  Basics of HTML, CSS & JS |    [ Basics of HTML, CSS & JS ]  (https://banaswaqqad.github.io/reading-notes201/class-02)|
 |   HTML Lists, Control Flow with JS, and the CSS Box Model | [ HTML Lists, Control Flow with JS, and the CSS Box Model] (https://banaswaqqad.github.io/reading-notes201/class-03) |
+|   Links  | [links](https://banaswaqqad.github.io/reading-notes201/class-04)|
+
+| Images, Color, Text | [Images, Color, Text] (https://banaswaqqad.github.io/reading-notes201/class-05)|
 
 
 
