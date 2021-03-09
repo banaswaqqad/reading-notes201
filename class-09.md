@@ -199,7 +199,7 @@ known as a select box) allows
 users to select one option from a 
 drop down list.
 
-The <select> element is used 
+The `<select>` element is used 
 to create a drop down list box. It 
 contains two or more `<option>`
 elements. 
